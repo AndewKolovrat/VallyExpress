@@ -1,0 +1,11 @@
+D:\repos\VallyExpress\VallyExpress\bin\Debug\net5.0\VallyExpress.deps.json
+D:\repos\VallyExpress\VallyExpress\bin\Debug\net5.0\VallyExpress.dll
+D:\repos\VallyExpress\VallyExpress\bin\Debug\net5.0\ref\VallyExpress.dll
+D:\repos\VallyExpress\VallyExpress\bin\Debug\net5.0\VallyExpress.pdb
+D:\repos\VallyExpress\VallyExpress\obj\Debug\net5.0\VallyExpress.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\VallyExpress\VallyExpress\obj\Debug\net5.0\VallyExpress.AssemblyInfoInputs.cache
+D:\repos\VallyExpress\VallyExpress\obj\Debug\net5.0\VallyExpress.AssemblyInfo.cs
+D:\repos\VallyExpress\VallyExpress\obj\Debug\net5.0\VallyExpress.csproj.CoreCompileInputs.cache
+D:\repos\VallyExpress\VallyExpress\obj\Debug\net5.0\VallyExpress.dll
+D:\repos\VallyExpress\VallyExpress\obj\Debug\net5.0\ref\VallyExpress.dll
+D:\repos\VallyExpress\VallyExpress\obj\Debug\net5.0\VallyExpress.pdb
