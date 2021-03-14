@@ -221,6 +221,19 @@
         "runtime": {
           "lib/netcoreapp2.0/System.Runtime.CompilerServices.Unsafe.dll": {}
         }
+      },
+      "VallyExpress.API/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "Npgsql.EntityFrameworkCore.PostgreSQL": "5.0.2"
+        },
+        "compile": {
+          "bin/placeholder/VallyExpress.API.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/VallyExpress.API.dll": {}
+        }
       }
     }
   },
@@ -672,11 +685,16 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "VallyExpress.API/1.0.0": {
+      "type": "project",
+      "path": "../VallyExperss.API/VallyExpress.API.csproj",
+      "msbuildProject": "../VallyExperss.API/VallyExpress.API.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net5.0": [
-      "Npgsql.EntityFrameworkCore.PostgreSQL >= 5.0.2"
+      "VallyExpress.API >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -705,7 +723,11 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\repos\\VallyExpress\\VallyExperss.API\\VallyExpress.API.csproj": {
+              "projectPath": "D:\\repos\\VallyExpress\\VallyExperss.API\\VallyExpress.API.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
@@ -717,12 +739,6 @@
     "frameworks": {
       "net5.0": {
         "targetAlias": "net5.0",
-        "dependencies": {
-          "Npgsql.EntityFrameworkCore.PostgreSQL": {
-            "target": "Package",
-            "version": "[5.0.2, )"
-          }
-        },
         "imports": [
           "net461",
           "net462",
@@ -734,6 +750,9 @@
         "assetTargetFallback": true,
         "warn": true,
         "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }

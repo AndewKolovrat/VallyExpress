@@ -1,11 +1,66 @@
+C:\Users\Заюшка-печенюшка и Я\source\repos\VallyExpress\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Заюшка-печенюшка и Я\source\repos\VallyExpress\bin\Debug\net5.0\appsettings.json
+C:\Users\Заюшка-печенюшка и Я\source\repos\VallyExpress\bin\Debug\net5.0\VallyExpress.exe
+C:\Users\Заюшка-печенюшка и Я\source\repos\VallyExpress\bin\Debug\net5.0\VallyExpress.deps.json
+C:\Users\Заюшка-печенюшка и Я\source\repos\VallyExpress\bin\Debug\net5.0\VallyExpress.runtimeconfig.json
+C:\Users\Заюшка-печенюшка и Я\source\repos\VallyExpress\bin\Debug\net5.0\VallyExpress.runtimeconfig.dev.json
+C:\Users\Заюшка-печенюшка и Я\source\repos\VallyExpress\bin\Debug\net5.0\VallyExpress.dll
+C:\Users\Заюшка-печенюшка и Я\source\repos\VallyExpress\bin\Debug\net5.0\ref\VallyExpress.dll
+C:\Users\Заюшка-печенюшка и Я\source\repos\VallyExpress\bin\Debug\net5.0\VallyExpress.pdb
+C:\Users\Заюшка-печенюшка и Я\source\repos\VallyExpress\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Заюшка-печенюшка и Я\source\repos\VallyExpress\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Заюшка-печенюшка и Я\source\repos\VallyExpress\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Заюшка-печенюшка и Я\source\repos\VallyExpress\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Заюшка-печенюшка и Я\source\repos\VallyExpress\bin\Debug\net5.0\Npgsql.dll
+C:\Users\Заюшка-печенюшка и Я\source\repos\VallyExpress\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Заюшка-печенюшка и Я\source\repos\VallyExpress\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Заюшка-печенюшка и Я\source\repos\VallyExpress\bin\Debug\net5.0\VallyExpress.API.dll
+C:\Users\Заюшка-печенюшка и Я\source\repos\VallyExpress\bin\Debug\net5.0\VallyExpress.API.pdb
+C:\Users\Заюшка-печенюшка и Я\source\repos\VallyExpress\obj\Debug\net5.0\VallyExpress.csprojAssemblyReference.cache
+C:\Users\Заюшка-печенюшка и Я\source\repos\VallyExpress\obj\Debug\net5.0\VallyExpress.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Заюшка-печенюшка и Я\source\repos\VallyExpress\obj\Debug\net5.0\VallyExpress.AssemblyInfoInputs.cache
+C:\Users\Заюшка-печенюшка и Я\source\repos\VallyExpress\obj\Debug\net5.0\VallyExpress.AssemblyInfo.cs
+C:\Users\Заюшка-печенюшка и Я\source\repos\VallyExpress\obj\Debug\net5.0\VallyExpress.csproj.CoreCompileInputs.cache
+C:\Users\Заюшка-печенюшка и Я\source\repos\VallyExpress\obj\Debug\net5.0\VallyExpress.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Заюшка-печенюшка и Я\source\repos\VallyExpress\obj\Debug\net5.0\staticwebassets\VallyExpress.StaticWebAssets.Manifest.cache
+C:\Users\Заюшка-печенюшка и Я\source\repos\VallyExpress\obj\Debug\net5.0\staticwebassets\VallyExpress.StaticWebAssets.xml
+C:\Users\Заюшка-печенюшка и Я\source\repos\VallyExpress\obj\Debug\net5.0\scopedcss\bundle\VallyExpress.styles.css
+C:\Users\Заюшка-печенюшка и Я\source\repos\VallyExpress\obj\Debug\net5.0\VallyExpress.RazorTargetAssemblyInfo.cache
+C:\Users\Заюшка-печенюшка и Я\source\repos\VallyExpress\obj\Debug\net5.0\VallyExpress.csproj.CopyComplete
+C:\Users\Заюшка-печенюшка и Я\source\repos\VallyExpress\obj\Debug\net5.0\VallyExpress.dll
+C:\Users\Заюшка-печенюшка и Я\source\repos\VallyExpress\obj\Debug\net5.0\ref\VallyExpress.dll
+C:\Users\Заюшка-печенюшка и Я\source\repos\VallyExpress\obj\Debug\net5.0\VallyExpress.pdb
+C:\Users\Заюшка-печенюшка и Я\source\repos\VallyExpress\obj\Debug\net5.0\VallyExpress.genruntimeconfig.cache
+D:\repos\VallyExpress\VallyExpress\bin\Debug\net5.0\appsettings.Development.json
+D:\repos\VallyExpress\VallyExpress\bin\Debug\net5.0\appsettings.json
+D:\repos\VallyExpress\VallyExpress\bin\Debug\net5.0\VallyExpress.exe
 D:\repos\VallyExpress\VallyExpress\bin\Debug\net5.0\VallyExpress.deps.json
+D:\repos\VallyExpress\VallyExpress\bin\Debug\net5.0\VallyExpress.runtimeconfig.json
+D:\repos\VallyExpress\VallyExpress\bin\Debug\net5.0\VallyExpress.runtimeconfig.dev.json
 D:\repos\VallyExpress\VallyExpress\bin\Debug\net5.0\VallyExpress.dll
 D:\repos\VallyExpress\VallyExpress\bin\Debug\net5.0\ref\VallyExpress.dll
 D:\repos\VallyExpress\VallyExpress\bin\Debug\net5.0\VallyExpress.pdb
+D:\repos\VallyExpress\VallyExpress\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\repos\VallyExpress\VallyExpress\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\repos\VallyExpress\VallyExpress\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\repos\VallyExpress\VallyExpress\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\repos\VallyExpress\VallyExpress\bin\Debug\net5.0\Npgsql.dll
+D:\repos\VallyExpress\VallyExpress\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\repos\VallyExpress\VallyExpress\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\repos\VallyExpress\VallyExpress\bin\Debug\net5.0\VallyExpress.API.dll
+D:\repos\VallyExpress\VallyExpress\bin\Debug\net5.0\VallyExpress.API.pdb
+D:\repos\VallyExpress\VallyExpress\obj\Debug\net5.0\VallyExpress.csprojAssemblyReference.cache
 D:\repos\VallyExpress\VallyExpress\obj\Debug\net5.0\VallyExpress.GeneratedMSBuildEditorConfig.editorconfig
 D:\repos\VallyExpress\VallyExpress\obj\Debug\net5.0\VallyExpress.AssemblyInfoInputs.cache
 D:\repos\VallyExpress\VallyExpress\obj\Debug\net5.0\VallyExpress.AssemblyInfo.cs
 D:\repos\VallyExpress\VallyExpress\obj\Debug\net5.0\VallyExpress.csproj.CoreCompileInputs.cache
+D:\repos\VallyExpress\VallyExpress\obj\Debug\net5.0\VallyExpress.MvcApplicationPartsAssemblyInfo.cache
+D:\repos\VallyExpress\VallyExpress\obj\Debug\net5.0\staticwebassets\VallyExpress.StaticWebAssets.Manifest.cache
+D:\repos\VallyExpress\VallyExpress\obj\Debug\net5.0\staticwebassets\VallyExpress.StaticWebAssets.xml
+D:\repos\VallyExpress\VallyExpress\obj\Debug\net5.0\scopedcss\bundle\VallyExpress.styles.css
+D:\repos\VallyExpress\VallyExpress\obj\Debug\net5.0\VallyExpress.RazorTargetAssemblyInfo.cache
+D:\repos\VallyExpress\VallyExpress\obj\Debug\net5.0\VallyExpress.csproj.CopyComplete
 D:\repos\VallyExpress\VallyExpress\obj\Debug\net5.0\VallyExpress.dll
 D:\repos\VallyExpress\VallyExpress\obj\Debug\net5.0\ref\VallyExpress.dll
 D:\repos\VallyExpress\VallyExpress\obj\Debug\net5.0\VallyExpress.pdb
+D:\repos\VallyExpress\VallyExpress\obj\Debug\net5.0\VallyExpress.genruntimeconfig.cache

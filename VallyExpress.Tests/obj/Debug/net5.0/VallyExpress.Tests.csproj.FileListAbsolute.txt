@@ -1,0 +1,232 @@
+C:\Users\Заюшка-печенюшка и Я\source\repos\VallyExpress.Tests\bin\Debug\net5.0\NUnit3.TestAdapter.dll
+C:\Users\Заюшка-печенюшка и Я\source\repos\VallyExpress.Tests\bin\Debug\net5.0\NUnit3.TestAdapter.pdb
+C:\Users\Заюшка-печенюшка и Я\source\repos\VallyExpress.Tests\bin\Debug\net5.0\nunit.engine.dll
+C:\Users\Заюшка-печенюшка и Я\source\repos\VallyExpress.Tests\bin\Debug\net5.0\nunit.engine.api.dll
+C:\Users\Заюшка-печенюшка и Я\source\repos\VallyExpress.Tests\bin\Debug\net5.0\VallyExpress.Tests.deps.json
+C:\Users\Заюшка-печенюшка и Я\source\repos\VallyExpress.Tests\bin\Debug\net5.0\VallyExpress.Tests.runtimeconfig.json
+C:\Users\Заюшка-печенюшка и Я\source\repos\VallyExpress.Tests\bin\Debug\net5.0\VallyExpress.Tests.runtimeconfig.dev.json
+C:\Users\Заюшка-печенюшка и Я\source\repos\VallyExpress.Tests\bin\Debug\net5.0\VallyExpress.Tests.dll
+C:\Users\Заюшка-печенюшка и Я\source\repos\VallyExpress.Tests\bin\Debug\net5.0\ref\VallyExpress.Tests.dll
+C:\Users\Заюшка-печенюшка и Я\source\repos\VallyExpress.Tests\bin\Debug\net5.0\VallyExpress.Tests.pdb
+C:\Users\Заюшка-печенюшка и Я\source\repos\VallyExpress.Tests\bin\Debug\net5.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\Заюшка-печенюшка и Я\source\repos\VallyExpress.Tests\bin\Debug\net5.0\Microsoft.DotNet.InternalAbstractions.dll
+C:\Users\Заюшка-печенюшка и Я\source\repos\VallyExpress.Tests\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Заюшка-печенюшка и Я\source\repos\VallyExpress.Tests\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Заюшка-печенюшка и Я\source\repos\VallyExpress.Tests\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Заюшка-печенюшка и Я\source\repos\VallyExpress.Tests\bin\Debug\net5.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Заюшка-печенюшка и Я\source\repos\VallyExpress.Tests\bin\Debug\net5.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Заюшка-печенюшка и Я\source\repos\VallyExpress.Tests\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Заюшка-печенюшка и Я\source\repos\VallyExpress.Tests\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Заюшка-печенюшка и Я\source\repos\VallyExpress.Tests\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Заюшка-печенюшка и Я\source\repos\VallyExpress.Tests\bin\Debug\net5.0\Microsoft.Extensions.Logging.dll
+C:\Users\Заюшка-печенюшка и Я\source\repos\VallyExpress.Tests\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Заюшка-печенюшка и Я\source\repos\VallyExpress.Tests\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\Заюшка-печенюшка и Я\source\repos\VallyExpress.Tests\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Заюшка-печенюшка и Я\source\repos\VallyExpress.Tests\bin\Debug\net5.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\Заюшка-печенюшка и Я\source\repos\VallyExpress.Tests\bin\Debug\net5.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\Заюшка-печенюшка и Я\source\repos\VallyExpress.Tests\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\Заюшка-печенюшка и Я\source\repos\VallyExpress.Tests\bin\Debug\net5.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\Заюшка-печенюшка и Я\source\repos\VallyExpress.Tests\bin\Debug\net5.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\Заюшка-печенюшка и Я\source\repos\VallyExpress.Tests\bin\Debug\net5.0\Microsoft.TestPlatform.Utilities.dll
+C:\Users\Заюшка-печенюшка и Я\source\repos\VallyExpress.Tests\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\Заюшка-печенюшка и Я\source\repos\VallyExpress.Tests\bin\Debug\net5.0\testhost.dll
+C:\Users\Заюшка-печенюшка и Я\source\repos\VallyExpress.Tests\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Заюшка-печенюшка и Я\source\repos\VallyExpress.Tests\bin\Debug\net5.0\Npgsql.dll
+C:\Users\Заюшка-печенюшка и Я\source\repos\VallyExpress.Tests\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Заюшка-печенюшка и Я\source\repos\VallyExpress.Tests\bin\Debug\net5.0\NuGet.Frameworks.dll
+C:\Users\Заюшка-печенюшка и Я\source\repos\VallyExpress.Tests\bin\Debug\net5.0\nunit.framework.dll
+C:\Users\Заюшка-печенюшка и Я\source\repos\VallyExpress.Tests\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Заюшка-печенюшка и Я\source\repos\VallyExpress.Tests\bin\Debug\net5.0\System.Xml.XPath.XmlDocument.dll
+C:\Users\Заюшка-печенюшка и Я\source\repos\VallyExpress.Tests\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Заюшка-печенюшка и Я\source\repos\VallyExpress.Tests\bin\Debug\net5.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Заюшка-печенюшка и Я\source\repos\VallyExpress.Tests\bin\Debug\net5.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Заюшка-печенюшка и Я\source\repos\VallyExpress.Tests\bin\Debug\net5.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Заюшка-печенюшка и Я\source\repos\VallyExpress.Tests\bin\Debug\net5.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Заюшка-печенюшка и Я\source\repos\VallyExpress.Tests\bin\Debug\net5.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Заюшка-печенюшка и Я\source\repos\VallyExpress.Tests\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Заюшка-печенюшка и Я\source\repos\VallyExpress.Tests\bin\Debug\net5.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Заюшка-печенюшка и Я\source\repos\VallyExpress.Tests\bin\Debug\net5.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Заюшка-печенюшка и Я\source\repos\VallyExpress.Tests\bin\Debug\net5.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Заюшка-печенюшка и Я\source\repos\VallyExpress.Tests\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Заюшка-печенюшка и Я\source\repos\VallyExpress.Tests\bin\Debug\net5.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Заюшка-печенюшка и Я\source\repos\VallyExpress.Tests\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Заюшка-печенюшка и Я\source\repos\VallyExpress.Tests\bin\Debug\net5.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Заюшка-печенюшка и Я\source\repos\VallyExpress.Tests\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Заюшка-печенюшка и Я\source\repos\VallyExpress.Tests\bin\Debug\net5.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Заюшка-печенюшка и Я\source\repos\VallyExpress.Tests\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Заюшка-печенюшка и Я\source\repos\VallyExpress.Tests\bin\Debug\net5.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Заюшка-печенюшка и Я\source\repos\VallyExpress.Tests\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Заюшка-печенюшка и Я\source\repos\VallyExpress.Tests\bin\Debug\net5.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Заюшка-печенюшка и Я\source\repos\VallyExpress.Tests\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Заюшка-печенюшка и Я\source\repos\VallyExpress.Tests\bin\Debug\net5.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Заюшка-печенюшка и Я\source\repos\VallyExpress.Tests\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Заюшка-печенюшка и Я\source\repos\VallyExpress.Tests\bin\Debug\net5.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Заюшка-печенюшка и Я\source\repos\VallyExpress.Tests\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Заюшка-печенюшка и Я\source\repos\VallyExpress.Tests\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Заюшка-печенюшка и Я\source\repos\VallyExpress.Tests\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Заюшка-печенюшка и Я\source\repos\VallyExpress.Tests\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Заюшка-печенюшка и Я\source\repos\VallyExpress.Tests\bin\Debug\net5.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Заюшка-печенюшка и Я\source\repos\VallyExpress.Tests\bin\Debug\net5.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Заюшка-печенюшка и Я\source\repos\VallyExpress.Tests\bin\Debug\net5.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Заюшка-печенюшка и Я\source\repos\VallyExpress.Tests\bin\Debug\net5.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Заюшка-печенюшка и Я\source\repos\VallyExpress.Tests\bin\Debug\net5.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Заюшка-печенюшка и Я\source\repos\VallyExpress.Tests\bin\Debug\net5.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Заюшка-печенюшка и Я\source\repos\VallyExpress.Tests\bin\Debug\net5.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Заюшка-печенюшка и Я\source\repos\VallyExpress.Tests\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Заюшка-печенюшка и Я\source\repos\VallyExpress.Tests\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Заюшка-печенюшка и Я\source\repos\VallyExpress.Tests\bin\Debug\net5.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Заюшка-печенюшка и Я\source\repos\VallyExpress.Tests\bin\Debug\net5.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Заюшка-печенюшка и Я\source\repos\VallyExpress.Tests\bin\Debug\net5.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Заюшка-печенюшка и Я\source\repos\VallyExpress.Tests\bin\Debug\net5.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Заюшка-печенюшка и Я\source\repos\VallyExpress.Tests\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Заюшка-печенюшка и Я\source\repos\VallyExpress.Tests\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Заюшка-печенюшка и Я\source\repos\VallyExpress.Tests\bin\Debug\net5.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Заюшка-печенюшка и Я\source\repos\VallyExpress.Tests\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Заюшка-печенюшка и Я\source\repos\VallyExpress.Tests\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Заюшка-печенюшка и Я\source\repos\VallyExpress.Tests\bin\Debug\net5.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Заюшка-печенюшка и Я\source\repos\VallyExpress.Tests\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Заюшка-печенюшка и Я\source\repos\VallyExpress.Tests\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Заюшка-печенюшка и Я\source\repos\VallyExpress.Tests\bin\Debug\net5.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Заюшка-печенюшка и Я\source\repos\VallyExpress.Tests\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Заюшка-печенюшка и Я\source\repos\VallyExpress.Tests\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Заюшка-печенюшка и Я\source\repos\VallyExpress.Tests\bin\Debug\net5.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Заюшка-печенюшка и Я\source\repos\VallyExpress.Tests\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Заюшка-печенюшка и Я\source\repos\VallyExpress.Tests\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Заюшка-печенюшка и Я\source\repos\VallyExpress.Tests\bin\Debug\net5.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Заюшка-печенюшка и Я\source\repos\VallyExpress.Tests\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Заюшка-печенюшка и Я\source\repos\VallyExpress.Tests\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Заюшка-печенюшка и Я\source\repos\VallyExpress.Tests\bin\Debug\net5.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Заюшка-печенюшка и Я\source\repos\VallyExpress.Tests\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Заюшка-печенюшка и Я\source\repos\VallyExpress.Tests\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Заюшка-печенюшка и Я\source\repos\VallyExpress.Tests\bin\Debug\net5.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Заюшка-печенюшка и Я\source\repos\VallyExpress.Tests\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Заюшка-печенюшка и Я\source\repos\VallyExpress.Tests\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Заюшка-печенюшка и Я\source\repos\VallyExpress.Tests\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Заюшка-печенюшка и Я\source\repos\VallyExpress.Tests\bin\Debug\net5.0\VallyExpress.API.dll
+C:\Users\Заюшка-печенюшка и Я\source\repos\VallyExpress.Tests\bin\Debug\net5.0\VallyExpress.API.pdb
+C:\Users\Заюшка-печенюшка и Я\source\repos\VallyExpress.Tests\obj\Debug\net5.0\VallyExpress.Tests.csprojAssemblyReference.cache
+C:\Users\Заюшка-печенюшка и Я\source\repos\VallyExpress.Tests\obj\Debug\net5.0\VallyExpress.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Заюшка-печенюшка и Я\source\repos\VallyExpress.Tests\obj\Debug\net5.0\VallyExpress.Tests.AssemblyInfoInputs.cache
+C:\Users\Заюшка-печенюшка и Я\source\repos\VallyExpress.Tests\obj\Debug\net5.0\VallyExpress.Tests.AssemblyInfo.cs
+C:\Users\Заюшка-печенюшка и Я\source\repos\VallyExpress.Tests\obj\Debug\net5.0\VallyExpress.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Заюшка-печенюшка и Я\source\repos\VallyExpress.Tests\obj\Debug\net5.0\VallyExpress.Tests.csproj.CopyComplete
+C:\Users\Заюшка-печенюшка и Я\source\repos\VallyExpress.Tests\obj\Debug\net5.0\VallyExpress.Tests.dll
+C:\Users\Заюшка-печенюшка и Я\source\repos\VallyExpress.Tests\obj\Debug\net5.0\ref\VallyExpress.Tests.dll
+C:\Users\Заюшка-печенюшка и Я\source\repos\VallyExpress.Tests\obj\Debug\net5.0\VallyExpress.Tests.pdb
+C:\Users\Заюшка-печенюшка и Я\source\repos\VallyExpress.Tests\obj\Debug\net5.0\VallyExpress.Tests.genruntimeconfig.cache
+D:\repos\VallyExpress\VallyExpress.Tests\bin\Debug\net5.0\NUnit3.TestAdapter.dll
+D:\repos\VallyExpress\VallyExpress.Tests\bin\Debug\net5.0\NUnit3.TestAdapter.pdb
+D:\repos\VallyExpress\VallyExpress.Tests\bin\Debug\net5.0\nunit.engine.dll
+D:\repos\VallyExpress\VallyExpress.Tests\bin\Debug\net5.0\nunit.engine.api.dll
+D:\repos\VallyExpress\VallyExpress.Tests\bin\Debug\net5.0\VallyExpress.Tests.deps.json
+D:\repos\VallyExpress\VallyExpress.Tests\bin\Debug\net5.0\VallyExpress.Tests.runtimeconfig.json
+D:\repos\VallyExpress\VallyExpress.Tests\bin\Debug\net5.0\VallyExpress.Tests.runtimeconfig.dev.json
+D:\repos\VallyExpress\VallyExpress.Tests\bin\Debug\net5.0\VallyExpress.Tests.dll
+D:\repos\VallyExpress\VallyExpress.Tests\bin\Debug\net5.0\ref\VallyExpress.Tests.dll
+D:\repos\VallyExpress\VallyExpress.Tests\bin\Debug\net5.0\VallyExpress.Tests.pdb
+D:\repos\VallyExpress\VallyExpress.Tests\bin\Debug\net5.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\repos\VallyExpress\VallyExpress.Tests\bin\Debug\net5.0\Microsoft.DotNet.InternalAbstractions.dll
+D:\repos\VallyExpress\VallyExpress.Tests\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\repos\VallyExpress\VallyExpress.Tests\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\repos\VallyExpress\VallyExpress.Tests\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\repos\VallyExpress\VallyExpress.Tests\bin\Debug\net5.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\repos\VallyExpress\VallyExpress.Tests\bin\Debug\net5.0\Microsoft.Extensions.Caching.Memory.dll
+D:\repos\VallyExpress\VallyExpress.Tests\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\repos\VallyExpress\VallyExpress.Tests\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\repos\VallyExpress\VallyExpress.Tests\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\repos\VallyExpress\VallyExpress.Tests\bin\Debug\net5.0\Microsoft.Extensions.Logging.dll
+D:\repos\VallyExpress\VallyExpress.Tests\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\repos\VallyExpress\VallyExpress.Tests\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+D:\repos\VallyExpress\VallyExpress.Tests\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+D:\repos\VallyExpress\VallyExpress.Tests\bin\Debug\net5.0\Microsoft.TestPlatform.CoreUtilities.dll
+D:\repos\VallyExpress\VallyExpress.Tests\bin\Debug\net5.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\repos\VallyExpress\VallyExpress.Tests\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\repos\VallyExpress\VallyExpress.Tests\bin\Debug\net5.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+D:\repos\VallyExpress\VallyExpress.Tests\bin\Debug\net5.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+D:\repos\VallyExpress\VallyExpress.Tests\bin\Debug\net5.0\Microsoft.TestPlatform.Utilities.dll
+D:\repos\VallyExpress\VallyExpress.Tests\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+D:\repos\VallyExpress\VallyExpress.Tests\bin\Debug\net5.0\testhost.dll
+D:\repos\VallyExpress\VallyExpress.Tests\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\repos\VallyExpress\VallyExpress.Tests\bin\Debug\net5.0\Npgsql.dll
+D:\repos\VallyExpress\VallyExpress.Tests\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\repos\VallyExpress\VallyExpress.Tests\bin\Debug\net5.0\NuGet.Frameworks.dll
+D:\repos\VallyExpress\VallyExpress.Tests\bin\Debug\net5.0\nunit.framework.dll
+D:\repos\VallyExpress\VallyExpress.Tests\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\repos\VallyExpress\VallyExpress.Tests\bin\Debug\net5.0\System.Xml.XPath.XmlDocument.dll
+D:\repos\VallyExpress\VallyExpress.Tests\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\repos\VallyExpress\VallyExpress.Tests\bin\Debug\net5.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\repos\VallyExpress\VallyExpress.Tests\bin\Debug\net5.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\repos\VallyExpress\VallyExpress.Tests\bin\Debug\net5.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\repos\VallyExpress\VallyExpress.Tests\bin\Debug\net5.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\repos\VallyExpress\VallyExpress.Tests\bin\Debug\net5.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\repos\VallyExpress\VallyExpress.Tests\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\repos\VallyExpress\VallyExpress.Tests\bin\Debug\net5.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\repos\VallyExpress\VallyExpress.Tests\bin\Debug\net5.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\repos\VallyExpress\VallyExpress.Tests\bin\Debug\net5.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\repos\VallyExpress\VallyExpress.Tests\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\repos\VallyExpress\VallyExpress.Tests\bin\Debug\net5.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\repos\VallyExpress\VallyExpress.Tests\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\repos\VallyExpress\VallyExpress.Tests\bin\Debug\net5.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\repos\VallyExpress\VallyExpress.Tests\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\repos\VallyExpress\VallyExpress.Tests\bin\Debug\net5.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\repos\VallyExpress\VallyExpress.Tests\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\repos\VallyExpress\VallyExpress.Tests\bin\Debug\net5.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\repos\VallyExpress\VallyExpress.Tests\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\repos\VallyExpress\VallyExpress.Tests\bin\Debug\net5.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\repos\VallyExpress\VallyExpress.Tests\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\repos\VallyExpress\VallyExpress.Tests\bin\Debug\net5.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\repos\VallyExpress\VallyExpress.Tests\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\repos\VallyExpress\VallyExpress.Tests\bin\Debug\net5.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\repos\VallyExpress\VallyExpress.Tests\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\repos\VallyExpress\VallyExpress.Tests\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\repos\VallyExpress\VallyExpress.Tests\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\repos\VallyExpress\VallyExpress.Tests\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\repos\VallyExpress\VallyExpress.Tests\bin\Debug\net5.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\repos\VallyExpress\VallyExpress.Tests\bin\Debug\net5.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\repos\VallyExpress\VallyExpress.Tests\bin\Debug\net5.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\repos\VallyExpress\VallyExpress.Tests\bin\Debug\net5.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\repos\VallyExpress\VallyExpress.Tests\bin\Debug\net5.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\repos\VallyExpress\VallyExpress.Tests\bin\Debug\net5.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\repos\VallyExpress\VallyExpress.Tests\bin\Debug\net5.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\repos\VallyExpress\VallyExpress.Tests\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\repos\VallyExpress\VallyExpress.Tests\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\repos\VallyExpress\VallyExpress.Tests\bin\Debug\net5.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\repos\VallyExpress\VallyExpress.Tests\bin\Debug\net5.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\repos\VallyExpress\VallyExpress.Tests\bin\Debug\net5.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\repos\VallyExpress\VallyExpress.Tests\bin\Debug\net5.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\repos\VallyExpress\VallyExpress.Tests\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\repos\VallyExpress\VallyExpress.Tests\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\repos\VallyExpress\VallyExpress.Tests\bin\Debug\net5.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\repos\VallyExpress\VallyExpress.Tests\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\repos\VallyExpress\VallyExpress.Tests\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\repos\VallyExpress\VallyExpress.Tests\bin\Debug\net5.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\repos\VallyExpress\VallyExpress.Tests\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\repos\VallyExpress\VallyExpress.Tests\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\repos\VallyExpress\VallyExpress.Tests\bin\Debug\net5.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\repos\VallyExpress\VallyExpress.Tests\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\repos\VallyExpress\VallyExpress.Tests\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\repos\VallyExpress\VallyExpress.Tests\bin\Debug\net5.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\repos\VallyExpress\VallyExpress.Tests\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\repos\VallyExpress\VallyExpress.Tests\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\repos\VallyExpress\VallyExpress.Tests\bin\Debug\net5.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\repos\VallyExpress\VallyExpress.Tests\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\repos\VallyExpress\VallyExpress.Tests\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\repos\VallyExpress\VallyExpress.Tests\bin\Debug\net5.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\repos\VallyExpress\VallyExpress.Tests\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\repos\VallyExpress\VallyExpress.Tests\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\repos\VallyExpress\VallyExpress.Tests\bin\Debug\net5.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\repos\VallyExpress\VallyExpress.Tests\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\repos\VallyExpress\VallyExpress.Tests\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\repos\VallyExpress\VallyExpress.Tests\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\repos\VallyExpress\VallyExpress.Tests\bin\Debug\net5.0\VallyExpress.API.dll
+D:\repos\VallyExpress\VallyExpress.Tests\bin\Debug\net5.0\VallyExpress.API.pdb
+D:\repos\VallyExpress\VallyExpress.Tests\obj\Debug\net5.0\VallyExpress.Tests.csprojAssemblyReference.cache
+D:\repos\VallyExpress\VallyExpress.Tests\obj\Debug\net5.0\VallyExpress.Tests.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\VallyExpress\VallyExpress.Tests\obj\Debug\net5.0\VallyExpress.Tests.AssemblyInfoInputs.cache
+D:\repos\VallyExpress\VallyExpress.Tests\obj\Debug\net5.0\VallyExpress.Tests.AssemblyInfo.cs
+D:\repos\VallyExpress\VallyExpress.Tests\obj\Debug\net5.0\VallyExpress.Tests.csproj.CoreCompileInputs.cache
+D:\repos\VallyExpress\VallyExpress.Tests\obj\Debug\net5.0\VallyExpress.Tests.csproj.CopyComplete
+D:\repos\VallyExpress\VallyExpress.Tests\obj\Debug\net5.0\VallyExpress.Tests.dll
+D:\repos\VallyExpress\VallyExpress.Tests\obj\Debug\net5.0\ref\VallyExpress.Tests.dll
+D:\repos\VallyExpress\VallyExpress.Tests\obj\Debug\net5.0\VallyExpress.Tests.pdb
+D:\repos\VallyExpress\VallyExpress.Tests\obj\Debug\net5.0\VallyExpress.Tests.genruntimeconfig.cache

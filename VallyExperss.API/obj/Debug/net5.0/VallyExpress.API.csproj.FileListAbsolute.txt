@@ -1,0 +1,22 @@
+C:\Users\Заюшка-печенюшка и Я\source\repos\VallyExperss.API\bin\Debug\net5.0\VallyExpress.API.deps.json
+C:\Users\Заюшка-печенюшка и Я\source\repos\VallyExperss.API\bin\Debug\net5.0\VallyExpress.API.dll
+C:\Users\Заюшка-печенюшка и Я\source\repos\VallyExperss.API\bin\Debug\net5.0\ref\VallyExpress.API.dll
+C:\Users\Заюшка-печенюшка и Я\source\repos\VallyExperss.API\bin\Debug\net5.0\VallyExpress.API.pdb
+C:\Users\Заюшка-печенюшка и Я\source\repos\VallyExperss.API\obj\Debug\net5.0\VallyExpress.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Заюшка-печенюшка и Я\source\repos\VallyExperss.API\obj\Debug\net5.0\VallyExpress.API.AssemblyInfoInputs.cache
+C:\Users\Заюшка-печенюшка и Я\source\repos\VallyExperss.API\obj\Debug\net5.0\VallyExpress.API.AssemblyInfo.cs
+C:\Users\Заюшка-печенюшка и Я\source\repos\VallyExperss.API\obj\Debug\net5.0\VallyExpress.API.csproj.CoreCompileInputs.cache
+C:\Users\Заюшка-печенюшка и Я\source\repos\VallyExperss.API\obj\Debug\net5.0\VallyExpress.API.dll
+C:\Users\Заюшка-печенюшка и Я\source\repos\VallyExperss.API\obj\Debug\net5.0\ref\VallyExpress.API.dll
+C:\Users\Заюшка-печенюшка и Я\source\repos\VallyExperss.API\obj\Debug\net5.0\VallyExpress.API.pdb
+D:\repos\VallyExpress\VallyExperss.API\bin\Debug\net5.0\VallyExpress.API.deps.json
+D:\repos\VallyExpress\VallyExperss.API\bin\Debug\net5.0\VallyExpress.API.dll
+D:\repos\VallyExpress\VallyExperss.API\bin\Debug\net5.0\ref\VallyExpress.API.dll
+D:\repos\VallyExpress\VallyExperss.API\bin\Debug\net5.0\VallyExpress.API.pdb
+D:\repos\VallyExpress\VallyExperss.API\obj\Debug\net5.0\VallyExpress.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\VallyExpress\VallyExperss.API\obj\Debug\net5.0\VallyExpress.API.AssemblyInfoInputs.cache
+D:\repos\VallyExpress\VallyExperss.API\obj\Debug\net5.0\VallyExpress.API.AssemblyInfo.cs
+D:\repos\VallyExpress\VallyExperss.API\obj\Debug\net5.0\VallyExpress.API.csproj.CoreCompileInputs.cache
+D:\repos\VallyExpress\VallyExperss.API\obj\Debug\net5.0\VallyExpress.API.dll
+D:\repos\VallyExpress\VallyExperss.API\obj\Debug\net5.0\ref\VallyExpress.API.dll
+D:\repos\VallyExpress\VallyExperss.API\obj\Debug\net5.0\VallyExpress.API.pdb
